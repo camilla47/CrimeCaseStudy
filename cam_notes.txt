@@ -1,0 +1,7 @@
+look at variable selection to answer questions about what are important factors
+combine economic indicators to the data
+
+carolyn - lasso / ridge
+josh - SARMIA
+daisy - random forest
+camilla - XG Boost
