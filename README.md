@@ -47,7 +47,7 @@ The final report file contains our analysis and findings.
 
 # Other
 
-**Data_Contest_2024_Tier2.pdf** scenario and prompt for the BYU Case Study
+**Data_Contest_2024_Tier2.pdf**: scenario and prompt for the BYU Case Study
 
 
 
