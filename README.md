@@ -58,6 +58,8 @@ https://www.visualcrossing.com/weather-data
 
 **Data_Contest_2024_Tier2.pdf**: scenario and prompt for the BYU Case Study
 
+**caseStudyReport.pdf**: final report written about our analysis, summarizes methods and findings
+
 
 
 
