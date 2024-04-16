@@ -17,7 +17,11 @@ The final report file contains our analysis and findings.
 
 ## Data
 
+**Crime Data**
+- Crimes - 2022: City of chicago: Data Portal. Chicago.							https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data
+
 **CHIC917URN.csv**: a list of the unemployment rate in Chicago by month
+- Unemployment rate in Chicago-naperville-elgin, IL-in-wi (MSA). FRED. (2024, April 3).			https://fred.stlouisfed.org/series/CHIC917URN 
 
 **full_moon.csv**: a list of the dates of the full moon each month
 
@@ -26,6 +30,10 @@ The final report file contains our analysis and findings.
 **merged3.csv**: contains the complete crime data set after merging all other information
 
 **weather.csv**: a dataframe with information on temperature and weather conditions in Chicago each day
+- VC Corporation. Total weather data -history & forecast data in CSV or JSON. Historical
+Weather Data & Weather Forecast Data | Visual Crossing. 
+https://www.visualcrossing.com/weather-data
+
 
 ## Code
 
